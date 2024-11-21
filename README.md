@@ -1,6 +1,6 @@
 # Plant Disease Detection
 
-This ~~DL Lab~~ project uses **MobileNet** and **transfer learning** to detect plant diseases across 38 different classes. The dataset comes from Kaggle's *New Plant Diseases Dataset* and is organized into train, validation, and test sets.
+This project uses **MobileNet** and **transfer learning** to detect plant diseases across 38 different classes. The dataset comes from Kaggle's *New Plant Diseases Dataset* and is organized into train, validation, and test sets.
 
 ### Project Overview
 
